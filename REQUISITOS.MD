@@ -7,3 +7,6 @@
 - Cada sala que tiver um departamento proprietário poderá escolher se para reservar a sala terá que pedir permissão ou não.
 
 - Cada departamento terá um líder cadastrado.
+
+- Uma sala reservada não poderá ser reservada no mesmo horário por outro usuário.
+
