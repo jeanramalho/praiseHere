@@ -10,3 +10,5 @@
 
 - Uma sala reservada não poderá ser reservada no mesmo horário por outro usuário.
 
+- A sala reservada em um horário não deverá apresentar mais aquele horário como disponível.
+
