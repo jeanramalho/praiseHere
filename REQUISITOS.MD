@@ -12,3 +12,5 @@
 
 - A sala reservada em um horário não deverá apresentar mais aquele horário como disponível.
 
+- As cores do app deverão ser algo puxado para o lado amadeirado e vermelhado.
+
